@@ -132,7 +132,7 @@ cd pds-software-design-patterns
 
 Trabalhos práticos desenvolvidos no âmbito da unidade curricular de **Padrões e Desenho de Software (2024/2025)**:
 
-* **Miguel Fortunato Custóias** — [GitHub](https://github.com/MiguelCustoias)
+* **Miguel Fortunato Custódio** — [GitHub](https://github.com/MiguelCustoias)
 * **Rafael Lourenço Cruz** — [GitHub](https://github.com/RafaCr3z) • [LinkedIn](https://linkedin.com/in/rafael-cruz-7159092b2)
 
 ---
