@@ -1,0 +1,94 @@
+CTB	Castelo Branco	5	42
+ALC	Alcains	2	40
+FND	Fundão	2	40
+VVR	Vila Velha de Rodão	2	38
+IDN	Idanha a Nova	3	40
+PRC	Proença a Nova	2	40
+PNM	Penamacor	3	38
+MNF	Monfortinho	2	40
+JNB	Janeiro de Baixo	2	40
+OPO	Porto	10	45
+LIS	Lisboa	10	45
+FAO	Faro	5	45
+BGC	Bragança	5	42
+VSE	Viseu	6	43
+PTA	Portalegre	5	42
+PDL	Ponta Delgada	8	45
+FNC	Funchal	8	45
+BRG	Braga	5	43
+VLR	Vila Real	5	42
+AVR	Aveiro	5	42
+GRD	Guarda	5	42
+CMB	Coimbra	5	42
+LEI	Leiria (que não existe)	6	42
+STR	Santarém	5	43
+EVR	Évora	5	40
+SET	Setubal	5	42
+BEJ	Beja	6	40
+AMS	Amesterdão, Schiphol	12	44
+ARN	Estocolmo, Arlanda	12	44
+BRU	Bruxelas, Bruxelas	12	45
+CPH	Copenhaga, Copenhaga	12	45
+DUS	Düsseldorf, Düsseldorf	12	43
+FRA	Frankfurt, Frankfurt	16	47
+FCO	Roma, Fiumicino	15	45
+LHR	Londres, Heathrow	8	50
+LTN	Londres, Luton	12	45
+MAD	Madrid, Madrid-Barajas	12	46
+MUC	Munique, Munique	12	45
+ORY	Paris, Orly	12	46
+BCN	Barcelona, Barcelona-El Prat	13	45
+ZRH	Zurique, Zurique	12	45
+VIE	Viena, Viena	13	45
+KG	Hong Kong, Chek Lap Kok	15	45
+NRT	Tóquio, Narita	17	45
+HND	Tóquio, Haneda	10	50
+ICN	Seul, Incheon	12	50
+SIN	Cingapura, Changi	12	46
+BKK	Banguecoque, Suvarnabhumi	12	45
+DEL	Nova Délhi, Indira Gandhi	12	46
+KUL	Kuala Lumpur, Kuala Lumpur	12	45
+SHA	Xangai, Hongqiao	12	45
+PEK	Pequim, Capital	15	47
+DXB	Dubai, Dubai	16	50
+MNL	Manila, Ninoy Aquino	12	45
+TPE	Taipé, Taoyuan	12	43
+BOM	Bombaim, Chhatrapati Shivaji	12	45
+CGK	Jacarta, Soekarno-Hatta	12	43
+BOM	Bombaim, Chhatrapati Shivaji	12	43
+CEB	Cebu, Mactan-Cebu	12	43
+JFK	Nova Iorque, John F. Kennedy	18	50
+LAX	Los Angeles, Los Angeles	12	48
+ORD	Chicago, O'Hare	10	45
+ATL	Atlanta, Hartsfield-Jackson	10	45
+MIA	Miami, Miami	10	45
+SFO	São Francisco, São Francisco	10	45
+YYZ	Toronto, Pearson	10	46
+YUL	Montreal, Pierre Elliott Trudeau	12	45
+BOG	Bogotá, El Dorado	12	45
+GRU	São Paulo, Guarulhos	14	48
+GIG	Rio de Janeiro, Galeão	16	50
+SCL	Santiago, Arturo Merino Benítez	12	45
+LIM	Lima, Jorge Chávez	12	45
+MEX	Cidade do México, Benito Juárez	12	45
+CUN	Cancún, Cancún	12	49
+LAS	Las Vegas, McCarran	15	49
+ABJ	Abidjan, Félix-Houphouët-Boigny	10	45
+ACC	Accra, Kotoka	10	45
+ADD	Adis Abeba, Bole	12	45
+ALG	Argel, Houari Boumediene	10	45
+CPT	Cidade do Cabo, Cidade do Cabo	14	48
+DAR	Dar es Salaam, Julius Nyerere	10	45
+DUR	Durban, King Shaka	10	45
+FIH	Kinshasa, N'djili	11	45
+HRE	Harare, Robert Gabriel Mugabe	10	45
+JNB	Joanesburgo, O.R. Tambo	10	48
+KGL	Kigali, Kigali	10	45
+LOS	Lagos, Murtala Muhammed	14	48
+LUN	Lusaka, Kenneth Kaunda	10	45
+MBA	Mombaça, Moi	10	45
+MGQ	Mogadíscio, Aden Adde	10	46
+MRU	Port Louis (Maurício), Sir Seewoosagur Ramgoolam	10	43
+NBO	Nairobi, Jomo Kenyatta	12	45
+TUN	Túnis, Túnis-Cartago	10	43
+ZNZ	Zanzibar, Abeid Amani Karume	12	43
