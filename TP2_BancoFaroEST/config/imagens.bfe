@@ -1,0 +1,106 @@
+6
+mineiro
+dama
+pistoleiro1
+pistoleiro2
+magico
+peregrino
+
+mineiro_ola = CHP	0	0	CA	mineiro/mineiro_ola.gif	5	4
+mineiro_espera = CHP	0	0	CA	mineiro/mineiro_espera.gif	5	4
+mineiro_adeus = CHP	0	0	CA	mineiro/mineiro_adeus.gif	5	3
+mineiro_morte = CA	mineiro/mineiro_morte.gif	5	6	unico
+mineiro_troca =	CA	mineiro/mineiro_troca.gif	5	4	unico
+mineiro_sair =	CA	mineiro/mineiro_troca.gif	5	4	unico
+mineiro_zangado = CHP	82	42	CA	mineiro/mineiro_zangado.gif	5	4
+mineiro_pacificando = CA	mineiro/mineiro_pacificando.png	5	4
+mineiro_extra0 = CHP	-81	60	CA	mineiro/mineiro_extra0.gif	5	4
+mineiro_extra0_sai = CA	mineiro/mineiro_extra0_sai.gif	5	2	unico
+mineiro_extra1 = CHP	50	38	CA	mineiro/mineiro_extra1.gif	5	4
+mineiro_extra1_sai = CA	mineiro/mineiro_extra1_sai.gif	5	2	unico
+mineiro_rise = CA	mineiro/mineiro_rise.png	5	4	unico
+mineiro_zombie = CHP	0	0	CA	mineiro/mineiro_zombie.png	5	4
+mineiro_remorre = CA	mineiro/mineiro_remorre.png	5	4	unico
+					
+peregrino_mata = CHP	0	-20	CA	peregrino/peregrino_mata.gif	5	4
+peregrino_deposita = CHP	0	-20	CA	peregrino/peregrino_deposita.gif	5	4
+peregrino_extra0 = CHP	0	-30	CA	peregrino/peregrino_extra0.gif	2	4
+peregrino_extra0_sai = CA	peregrino/peregrino_extra0_sai.gif	5	2	unico
+peregrino_extra1 = CHP	0	-52	CA	peregrino/peregrino_extra1.gif	2	4
+peregrino_extra1_sai = CA	peregrino/peregrino_extra1_sai.gif	5	2	unico
+peregrino_extra2 = CHP	0	-68	CA	peregrino/peregrino_extra2.gif	2	4
+peregrino_extra2_sai = CA	peregrino/peregrino_extra2_sai.gif	5	2	unico
+peregrino_extra3 = CHP	0	-85	CA	peregrino/peregrino_extra3.gif	2	4
+peregrino_extra3_sai = CA	peregrino/peregrino_extra3_sai.gif	5	2	unico
+			
+pistoleiro1_ola = CA	pistoleiro1/pistoleiro1_espera.gif	5	10
+pistoleiro1_espera = CHP	0	0	CA	pistoleiro1/pistoleiro1_espera.gif	5	10
+pistoleiro1_adeus = CA	pistoleiro1/pistoleiro1_espera.gif	5	10
+pistoleiro1_saca  = CA	pistoleiro1/pistoleiro1_saca.gif	5	3	unico
+pistoleiro1_sacada = CHP	0	0	CA	pistoleiro1/pistoleiro1_sacada.gif	5	4
+pistoleiro1_morte = CA	pistoleiro1/pistoleiro1_morte1.gif	5	6	unico 
+pistoleiro1_morte1 = CA	pistoleiro1/pistoleiro1_morte1.gif	5	6	unico
+pistoleiro1_morte2 = CA	pistoleiro1/pistoleiro1_morte2.gif	5	6	unico
+pistoleiro1_sair = CA	pistoleiro1/pistoleiro1_sair.png	5	4	unico
+pistoleiro1_troca = CA	pistoleiro1/pistoleiro1_troca.gif	5	4	unico
+pistoleiro1_rise = CA	pistoleiro1/pistoleiro1_rise.png	5	4	unico
+pistoleiro1_zombie = CHP	0	0	CA	pistoleiro1/pistoleiro1_zombie.png	5	4
+pistoleiro1_remorre = CA	pistoleiro1/pistoleiro1_remorre.png	5	4	unico
+
+pistoleiro2_ola = CA	pistoleiro2/pistoleiro2_espera.png	5	10
+pistoleiro2_espera = CHP	0	0	CA	pistoleiro2/pistoleiro2_espera.png	5	10
+pistoleiro2_adeus = CA	pistoleiro2/pistoleiro2_espera.png	5	10
+pistoleiro2_saca  = CA	pistoleiro2/pistoleiro2_saca.png	5	3	unico
+pistoleiro2_sacada = CHP	0	0	CA	pistoleiro2/pistoleiro2_sacada.png	5	4
+pistoleiro2_sair = CA	pistoleiro2/pistoleiro2_sair.png	5	4	unico
+pistoleiro2_morte = CA	pistoleiro2/pistoleiro2_morte1.png	5	6	unico 
+pistoleiro2_morte1 = CA	pistoleiro2/pistoleiro2_morte1.png	5	6	unico
+pistoleiro2_morte2 = CA	pistoleiro2/pistoleiro2_morte2.png	5	6	unico
+pistoleiro2_troca = CA	pistoleiro2/pistoleiro2_troca.png	5	4	unico
+pistoleiro2_rise = CA	pistoleiro2/pistoleiro2_rise.png	5	4	unico
+pistoleiro2_zombie = CHP	0	0	CA	pistoleiro2/pistoleiro2_zombie.png	5	4
+pistoleiro2_remorre = CA	pistoleiro2/pistoleiro2_remorre.png	5	4	unico
+			
+dama_ola = CHP	0	0	CA	dama/dama_ola.gif	5	4
+dama_espera  = CHP	0	0	CA	dama/dama_espera.gif	5	4
+dama_adeus = CHP	0	0	CA	dama/dama_adeus.gif	5	3
+dama_morte = CA	dama/dama_morte.gif	5	6	unico
+dama_troca = CA	dama/dama_troca.gif	5	4	unico
+dama_sair = CA	dama/dama_troca.gif	5	4	unico
+dama_zangado = CHP	75	40	CA	dama/dama_zangada.gif	5	4
+dama_pacificando = CA	dama/dama_pacificando.gif	5	4
+dama_extra0 = CHP	-67	66	CA	dama/dama_extra0.png	5	4
+dama_extra0_sai = CA	dama/dama_extra0_sai.gif	5	2	unico
+dama_extra1 = CHP	5	-25	CA	dama/dama_extra1.png	5	4
+dama_extra1_sai = CA	dama/dama_extra1_sai.gif	5	2	unico
+dama_rise = CA	dama/dama_rise.png	5	4	unico
+dama_zombie = CHP	0	0	CA	dama/dama_zombie.png	5	4
+dama_remorre = CA	dama/dama_remorre.png	5	4	unico
+			
+magico_mata = CHP	0	115	CA	magico/magico_mata.gif	5	4
+magico_deposita = CHP	0	115	CA	magico/magico_deposita.gif	5	4
+magico_extra0 = CHP	0	115	CA	magico/magico_extra0.gif	5	4
+magico_extra0_sai = CA	magico/magico_extra0_sai.gif	5	2	unico
+magico_extra1 = CHP	0	115	CA	magico/magico_extra1.gif	5	4
+magico_extra1_sai = CA	magico/magico_extra1_sai.gif	5	2	unico
+magico_extra2 = CHP	0	115	CA	magico/magico_extra2.gif	5	4
+magico_extra2_sai = CA	magico/magico_extra2_sai.gif	5	2	unico
+magico_espera = CHP	0	0	CA	magico/magico_espera.gif	5	4
+magico_ola = CA	magico/magico_espera.gif	5	4
+magico_adeus = CA	magico/magico_adeus.gif	5	4
+magico_sair = CA	magico/magico_sair.png	5	4	unico
+magico_morte = CA	magico/magico_morte.gif	5	4	unico
+magico_morte1 = CA	magico/magico_morte.gif	5	4	unico
+magico_morte2 = CA	magico/magico_morte2.gif	5	4	unico
+magico_saca = CA	magico/magico_saca.gif	5	3
+magico_sacada = CHP	0	0	CA	magico/magico_sacada.gif	5	4
+magico_rise = CA	magico/magico_rise.png	5	4	unico
+magico_zombie = CHP	0	0	CA	magico/magico_zombie.png	5	4
+magico_remorre = CA	magico/magico_remorre.png	5	4	unico
+			
+dinheiro = CA	fxs/dinheiro.png	12	2
+bang = CA	fxs/bang.gif	2	4
+nham = CA	fxs/nham.png	2	4
+oops = CA	fxs/oops.gif	4	2
+boom = CA	fxs/boom.gif	4	2
+tiro = CA	fxs/tiro.png	4	3
