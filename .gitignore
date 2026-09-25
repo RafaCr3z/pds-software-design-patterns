@@ -1,0 +1,81 @@
+# ==============================================================================
+# Monorepo PDS (2024/2025) - .gitignore
+# Padrões e Desenho de Software - EST / IPCB
+# ==============================================================================
+
+# Ficheiros de compilação Java
+*.class
+bin/
+target/
+build/
+out/
+
+# Pacotes e ficheiros binários gerados
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Preservar ficheiros JAR de suporte e bibliotecas
+!TP2_BancoFaroEST/lib/*.jar
+!TP2_BancoFaroEST/src/*.jar
+!**/lib/*.jar
+
+# Ficheiros de registo e diagnóstico
+*.log
+*.log.*
+
+# Metadados e definições do Eclipse IDE
+.metadata/
+.recommenders/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.factorypath
+
+# Metadados e definições do IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Metadados e definições do Visual Studio Code
+.vscode/
+*.code-workspace
+
+# NetBeans IDE
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Ficheiros de Sistema (macOS / Windows)
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Preservar ativos de dados, configurações e recursos
+!**/data/**
+!**/config/**
+!**/font/**
+!**/art/**
+!**/niveis/**
+!docs/diagrams/**
